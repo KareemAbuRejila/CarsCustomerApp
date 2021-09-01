@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">CarsCustomerApp</string>
+    <string name="title_activity_maps">CustomerMap</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">log in</string>
+    <string name="user_name">User Name</string>
+    <string name="re_password">Re_Password</string>
+    <string name="register">Register</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="signup">signUp</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="find_user">Find User</string>
+    <string name="enter_pickup_location">Enter Pickup Location</string>
+
+    <string name="googleDirectionKey">AIzaSyCLK9x7lHzKZ_Wy9KrJelq0WlrICOzW0UM</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="openDrawer">open Drawer</string>
+    <string name="closeDrawer">close Drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_Map_fragment">Hello Map fragment</string>
+    <string name="title_activity_nav">NavActivity</string>
+    <string name="pickup_request">Pickup request</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="pickup_here">PickUp Here</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="waitingStatus">waiting</string>
+</resources>
